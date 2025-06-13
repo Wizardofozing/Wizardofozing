@@ -44,7 +44,7 @@
     src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif" 
     alt="Banner"
     width="100%"
-    height="180"
+    height="200"
   />
 </p>
 
