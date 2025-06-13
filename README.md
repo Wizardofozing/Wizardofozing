@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" alt="Banner" width="100%" height="100" />
+  <img 
+    src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" 
+    alt="Banner"
+    width="100%"
+    height="100"
+  />
 </p>
 
 
@@ -7,7 +12,8 @@
 
 
 
-<h1 align="center">✨ Hello World, I'm Wizard Of Oz ✨</h1>
+
+<h1 align="center">✨ I'm Wizard Of Oz ✨</h1>
 <p align="center">🧙‍♀️ Just a tiny code wizard chasing bugs down the yellow brick road 🌪️</p>
 
 ---
