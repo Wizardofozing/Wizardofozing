@@ -50,22 +50,6 @@
 
 ---
 
-<h2 id="my-contacts">📫 &nbsp;My Contacts</h2>
-
-<p>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/your_username/" target="_blank">
-    <img src="https://img.shields.io/badge/-@your_username-FF69B4?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
-  </a>&nbsp;
-
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@your_username" target="_blank">
-    <img src="https://img.shields.io/badge/-@your_username-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok Badge">
-  </a>&nbsp;
-</p>
-
-
-
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 <div>
