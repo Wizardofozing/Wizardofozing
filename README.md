@@ -21,7 +21,7 @@
 
 ---
 
-###ೕ⋆｡🌷 About Me
+##  ೀ⋆｡🌷 About Me
  
 - Currently working on and developing my (barely there) programming skills.
 - I code when inspiration strikes
