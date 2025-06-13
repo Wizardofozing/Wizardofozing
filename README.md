@@ -1,6 +1,6 @@
 <p align="center" style="margin: 0;">
   <img 
-    src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" 
+    src="https://i.pinimg.com/originals/fb/4f/c9/fb4fc97e9ae190c742cfc1a9b90a9fb6.gif" 
     alt="Banner" 
     style="
       width: 100vw;          /* full viewport width */
