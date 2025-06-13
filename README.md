@@ -50,15 +50,6 @@
 
 ---
 
-<h2 id="-my-activities">📊 &nbsp;My activities</h2>
-  <a href="https://github.com/Pepyn0">
-    <img width="450" height="170" align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true">
-  </a>
-  <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true">
-  </a>
-</div>
-<div>
 <h2 id="-my-contacts">📫 &nbsp;My Contacts</h2>
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
 <p><a href="https://www.linkedin.com/in/pablodsilva/"><img src="https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/pablodsilva/" alt="LinkedIn Badge"></a>&nbsp;
