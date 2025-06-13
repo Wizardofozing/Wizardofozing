@@ -1,11 +1,11 @@
 <p align="center" style="margin: 0;">
   <img 
-    src="https://i.pinimg.com/originals/fb/4f/c9/fb4fc97e9ae190c742cfc1a9b90a9fb6.gif" 
+    src="https://i.pinimg.com/originals/6a/8e/4d/6a8e4d2b450f10d3733422efc4e95526.gif" 
     alt="Banner" 
     style="
       width: 100vw;          /* full viewport width */
       max-width: 100%;       /* never overflow container */
-      height: auto;          /* keep aspect ratio */
+      height: 50%;          /* keep aspect ratio */
       border-top: 8px solid #9c27b0;    /* thick purple border on top */
       border-bottom: 8px solid #9c27b0; /* thick purple border on bottom */
       border-radius: 0;      /* no rounding for full stretch */
