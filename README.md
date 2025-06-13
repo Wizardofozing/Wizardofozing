@@ -37,11 +37,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,flutter,firebase,github,&theme=light" />
 </p>
 
----
-
-<h2 id="socials">🌐Socials</h2>
-<p><a href="https://medium.com/@CodeWhiteWeb"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" alt="Medium"></a> <a href="https://reddit.com/user/CodeWhiteWeb"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&amp;logoColor=white" alt="Reddit"></a> <a href="https://twitch.tv/code_white_web"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" alt="Twitch"></a> <a href="https://youtube.com/c/CodeWhiteWeb"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" alt="YouTube"></a></p>
-----
 
 <p align="center">
   <img 
