@@ -19,17 +19,23 @@
   Not for work or deadlines 𓏲 ๋࣭ ࣪ ˖🎐
 </p>
 
----
+<table>
+  <tr>
+    <td>
 
-### ೀ⋆｡🌷 About Me
-- Currently working on and developing my
-  (barely there) programming skills.
-- I code when inspiration strikes
-- I try to make all projects pleasing
-  for the eyes!
-  ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
+      ### ೀ⋆｡🌷 About Me  
+      - Currently working on and developing my (barely there) programming skills.  
+      - I code when inspiration strikes  
+      - I try to make all projects pleasing for the eyes!  
+      ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
 
----
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/75/8a/08/758a082d3f66eb959220e0ade3d9ee7b.gif" width="180" />
+    </td>
+  </tr>
+</table>
+
 
 ### 💻 Languages & Tools I’m Touching with My Wand
 
