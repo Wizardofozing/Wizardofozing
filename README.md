@@ -1,20 +1,20 @@
 <p align="center" style="margin: 0;">
   <img 
-    src="https://i.pinimg.com/originals/6a/8e/4d/6a8e4d2b450f10d3733422efc4e95526.gif" 
+    src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" 
     alt="Banner" 
     style="
-      width: 100vw;          /* full viewport width */
-      max-width: 100%;       /* never overflow container */
-      height: 150px;          /* keep aspect ratio */
-      border-top: 8px solid #9c27b0;    /* thick purple border on top */
-      border-bottom: 8px solid #9c27b0; /* thick purple border on bottom */
-      border-radius: 0;      /* no rounding for full stretch */
-      box-shadow: 0 0 25px #d1c4e9;
+      width: 100%;          /* full container width */
+      height: 150px;        /* fixed header height */
+      object-fit: cover;    /* crop & fill nicely */
+      border: 5px solid #9c27b0;
+      border-radius: 0;
+      box-shadow: 0 0 20px #d1c4e9;
       display: block;
-      margin: 0 auto;        /* center horizontally */
-    " 
+      margin: 0 auto;
+    "
   />
 </p>
+
 
 
 
