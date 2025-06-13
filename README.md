@@ -41,7 +41,7 @@
 
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/4b/a4/a3/4ba4a3201379339649ace503f62e7b8c.gif" 
+    src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif" 
     alt="Banner"
     width="100%"
     height="180"
