@@ -21,11 +21,13 @@
 
 ---
 
-### 🧠 About Me
-- 🪄 Learning HTML, CSS, and JavaScript!
-- 🧁 Debugging with snacks 🍩
-- 💻 Writing tiny spells with code
-- 👠 Clicking heels to deploy ✨
+### ೀ⋆｡🌷 About Me
+- Currently working on and developing my
+  (barely there) programming skills.
+- I code when inspiration strikes
+- I try to make all projects pleasing
+  for the eyes!
+  ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
 
 ---
 
