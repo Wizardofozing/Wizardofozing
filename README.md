@@ -3,12 +3,12 @@
     src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" 
     alt="Banner" 
     style="
-      width: 100%;          /* full container width */
-      height: 150px;        /* fixed header height */
-      object-fit: cover;    /* crop & fill nicely */
-      border: 5px solid #9c27b0;
+      width: 100%;       /* full container width */
+      height: 100px;     /* small header height */
+      object-fit: cover; /* crop & fill without distortion */
+      border: 4px solid #9c27b0;
       border-radius: 0;
-      box-shadow: 0 0 20px #d1c4e9;
+      box-shadow: 0 0 15px #d1c4e9;
       display: block;
       margin: 0 auto;
     "
