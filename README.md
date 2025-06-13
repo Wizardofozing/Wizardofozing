@@ -1,17 +1,21 @@
-<p align="center">
+<p align="center" style="margin: 0;">
   <img 
     src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" 
     alt="Banner" 
     style="
-      width: 150%;           /* controls width relative to container */
-      max-width: 800px;     /* max width in px */
-      height: auto;         /* keeps aspect ratio */
-      border: 5px solid #9c27b0;  /* purple solid border */
-      border-radius: 15px;  /* rounded corners */
-      box-shadow: 0 0 15px #d1c4e9; /* subtle glow effect */
+      width: 100vw;          /* full viewport width */
+      max-width: 100%;       /* never overflow container */
+      height: auto;          /* keep aspect ratio */
+      border-top: 8px solid #9c27b0;    /* thick purple border on top */
+      border-bottom: 8px solid #9c27b0; /* thick purple border on bottom */
+      border-radius: 0;      /* no rounding for full stretch */
+      box-shadow: 0 0 25px #d1c4e9;
+      display: block;
+      margin: 0 auto;        /* center horizontally */
     " 
   />
 </p>
+
 
 
 
