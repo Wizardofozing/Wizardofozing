@@ -33,7 +33,7 @@
 ### ⋆౨ৎ˚⟡˖ ࣪ Languages & Tools I be using:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,firebase,github,&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,firebase,chatgpt,github,&theme=light" />
 </p>
 
 ---
