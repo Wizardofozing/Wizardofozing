@@ -3,7 +3,7 @@
     src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" 
     alt="Banner" 
     style="
-      width: 90%;           /* controls width relative to container */
+      width: 150%;           /* controls width relative to container */
       max-width: 800px;     /* max width in px */
       height: auto;         /* keeps aspect ratio */
       border: 5px solid #9c27b0;  /* purple solid border */
