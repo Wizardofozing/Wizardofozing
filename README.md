@@ -49,6 +49,19 @@
 
 ---
 
+<h3 align="center">📫 Let's Connect!</h3>
+<p align="center">
+  <a href="https://www.instagram.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/@your_username-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.tiktok.com/@your_username" target="_blank">
+    <img src="https://img.shields.io/badge/@your_username-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+  </a>
+</p>
+
 
 
 
