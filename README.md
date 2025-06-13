@@ -15,7 +15,7 @@
 </p>
 
 ---
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
+<img align="right" width="300px" alt="Unicorn" src="https://i.pinimg.com/originals/cd/4a/dd/cd4addb03dbfb01b2fe3072990e42ea6.gif">
 
 ##  ೀ⋆｡🌷 About Me
  
@@ -24,8 +24,7 @@
 - I try to make all projects pleasing for the eyes!
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
-　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
-
+　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　
 ---
 
 ### ⋆౨ৎ˚⟡˖ ࣪ Languages & Tools I be using:
