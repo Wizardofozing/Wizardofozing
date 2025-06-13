@@ -19,7 +19,7 @@
 ---
 <img align="right" width="290px" alt="Unicorn" src="https://i.pinimg.com/originals/cd/4a/dd/cd4addb03dbfb01b2fe3072990e42ea6.gif">
 
-##  ೀ⋆｡🌷 About Me
+###  ೀ⋆｡🌷 About Me
  
 - Currently working on and developing my (barely there) programming skills.
 - I code when inspiration strikes
@@ -47,20 +47,6 @@
   />
 </p>
 
----
-
-<h3 align="center">📫 Let's Connect!</h3>
-<p align="center">
-  <a href="https://www.instagram.com/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/@your_username-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.tiktok.com/@your_username" target="_blank">
-    <img src="https://img.shields.io/badge/@your_username-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
-  </a>
-</p>
 
 ---
 ### 📈 GitHub Stats
