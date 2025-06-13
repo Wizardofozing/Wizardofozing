@@ -31,10 +31,11 @@
 
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/75/8a/08/758a082d3f66eb959220e0ade3d9ee7b.gif" width="180" />
+      <img src="https://media.giphy.com/media/kDnZzR3OZQd5K/giphy.gif" width="180" />
     </td>
   </tr>
 </table>
+
 
 
 ### 💻 Languages & Tools I’m Touching with My Wand
