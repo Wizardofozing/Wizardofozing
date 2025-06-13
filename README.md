@@ -27,11 +27,11 @@
 - I code when inspiration strikes
 - I try to make all projects pleasing
   for the eyes!
--  𓂃 ࣪˖ ִֶָ🐇་༘࿐
+  𓂃 ࣪˖ ִֶָ🐇་༘࿐
 
 ---
 
-### 💻 Languages & Tools I be using:
+### ˚₊· ͟͟͞͞➳❥ Languages & Tools I be using:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,flutter,firebase,github,&theme=light" />
