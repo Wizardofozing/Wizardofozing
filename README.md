@@ -21,25 +21,15 @@
 
 ---
 
+| About Me | <img src="https://i.pinimg.com/originals/75/8a/08/758a082d3f66eb959220e0ade3d9ee7b.gif" width="150"/> |
+|----------|-----------------------------------------------|
+| - Currently working on and developing my (barely there) programming skills.  
+- I code when inspiration strikes  
+- I try to make all projects pleasing for the eyes!  
+ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐ |  |
 
-  <table>
-  <tr>
-    <td>
 
-<h3>༝ About Me ༝</h3>
-<ul>
-  <li>Currently working on and developing my (barely there) programming skills.</li>
-  <li>I code when inspiration strikes</li>
-  <li>I try to make all projects pleasing for the eyes!</li>
-</ul>
-<p style="font-size: 20px;">ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐</p>
 
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/75/8a/08/758a082d3f66eb959220e0ade3d9ee7b.gif" width="180" />
-    </td>
-  </tr>
-</table>
 
 
 
