@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="50%">
 
       <h3>ೕ⋆｡🌷 About Me</h3>
       <ul>
@@ -33,7 +33,7 @@
       </ul>
 
     </td>
-    <td>
+    <td valign="top" width="50%">
 
       <h3>🌸⋆｡ My Interests</h3>
       <ul>
