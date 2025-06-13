@@ -14,6 +14,8 @@
   Not for work or deadlines 𓏲 ๋࣭ ࣪ ˖🎐
 </p>
 
+<img align="right" width="300px" alt="Unicorn" src="https://i.pinimg.com/originals/cd/4a/dd/cd4addb03dbfb01b2fe3072990e42ea6.gif">
+
 ---
 
 ##  ೀ⋆｡🌷 About Me
@@ -24,7 +26,7 @@
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　
-<img align="right" width="300px" alt="Unicorn" src="https://i.pinimg.com/originals/cd/4a/dd/cd4addb03dbfb01b2fe3072990e42ea6.gif">
+
 
 
 ### ⋆౨ৎ˚⟡˖ ࣪ Languages & Tools I be using:
