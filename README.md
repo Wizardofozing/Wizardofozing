@@ -20,13 +20,12 @@
  
 - Currently working on and developing my (barely there) programming skills.
 - I code when inspiration strikes
-- I try to make all projects pleasing for the eyes!𓂃 ࣪˖ ִֶָ🐇་༘࿐
-
+- I try to make all projects pleasing for the eyes!
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 
-
+---
 
 ### ⋆౨ৎ˚⟡˖ ࣪ Languages & Tools I be using:
 
