@@ -5,7 +5,7 @@
     style="
       width: 100vw;          /* full viewport width */
       max-width: 100%;       /* never overflow container */
-      height: 10%;          /* keep aspect ratio */
+      height: 150px;          /* keep aspect ratio */
       border-top: 8px solid #9c27b0;    /* thick purple border on top */
       border-bottom: 8px solid #9c27b0; /* thick purple border on bottom */
       border-radius: 0;      /* no rounding for full stretch */
