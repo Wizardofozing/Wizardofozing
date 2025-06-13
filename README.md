@@ -20,23 +20,27 @@
 </p>
 
 ---
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
-  <div style="flex: 1;">
-    <h3>༝ About Me ༝</h3>
-    <ul>
-      <li>Currently working on and developing my (barely there) programming skills.</li>
-      <li>I code when inspiration strikes</li>
-      <li>I try to make all projects pleasing for the eyes!</li>
-    </ul>
-    <p style="font-size: 20px;">ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐</p>
-  </div>
 
-  <div>
-    <img src="https://i.pinimg.com/originals/75/8a/08/758a082d3f66eb959220e0ade3d9ee7b.gif" width="180" />
-  </div>
+  <table>
+  <tr>
+    <td>
 
-</div>
+<h3>༝ About Me ༝</h3>
+<ul>
+  <li>Currently working on and developing my (barely there) programming skills.</li>
+  <li>I code when inspiration strikes</li>
+  <li>I try to make all projects pleasing for the eyes!</li>
+</ul>
+<p style="font-size: 20px;">ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐</p>
+
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/75/8a/08/758a082d3f66eb959220e0ade3d9ee7b.gif" width="180" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
