@@ -4,7 +4,7 @@
     alt="Banner" 
     style="
       width: 100%;       /* full container width */
-      height: 100px;     /* small header height */
+      height: 50px;     /* small header height */
       object-fit: cover; /* crop & fill without distortion */
       border: 4px solid #9c27b0;
       border-radius: 0;
