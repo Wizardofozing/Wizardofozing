@@ -21,31 +21,14 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+###ೕ⋆｡🌷 About Me
+ 
+- Currently working on and developing my (barely there) programming skills.
+- I code when inspiration strikes
+- I try to make all projects pleasing for the eyes!𓂃 ࣪˖ ִֶָ🐇་༘࿐
 
-      <h3>ೕ⋆｡🌷 About Me</h3>
-      <ul>
-        <li>Currently working on and developing my (barely there) programming skills.</li>
-        <li>I code when inspiration strikes</li>
-        <li>I try to make all projects pleasing for the eyes!<br>𓂃 ࣪˖ ִֶָ🐇་༘࿐</li>
-      </ul>
 
-    </td>
-    <td valign="top" width="50%">
 
-      <h3>🌸⋆｡ My Interests</h3>
-      <ul>
-        <li>Studio Ghibli fan 🌙</li>
-        <li>Love pastel aesthetics 🎀</li>
-        <li>Obsessed with cozy games 🎮</li>
-        <li>Always listening to lo-fi music 🎧</li>
-      </ul>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
