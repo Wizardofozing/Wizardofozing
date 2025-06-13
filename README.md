@@ -37,6 +37,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,flutter,firebase,github,&theme=light" />
 </p>
 
+---
 
 <p align="center">
   <img 
@@ -50,4 +51,3 @@
 ---
 
 
----
