@@ -34,7 +34,7 @@
 ### 💻 Languages & Tools I’m Touching with My Wand
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,flutter,github,figma&theme=light" />
 </p>
 
 ---
