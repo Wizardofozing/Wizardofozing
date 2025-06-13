@@ -1,4 +1,18 @@
-<img src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" alt="Banner" style="width:100%;" />
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/10/28/f9/1028f99fd8f021b7b30e6e1899a88b29.gif" 
+    alt="Banner" 
+    style="
+      width: 90%;           /* controls width relative to container */
+      max-width: 800px;     /* max width in px */
+      height: auto;         /* keeps aspect ratio */
+      border: 5px solid #9c27b0;  /* purple solid border */
+      border-radius: 15px;  /* rounded corners */
+      box-shadow: 0 0 15px #d1c4e9; /* subtle glow effect */
+    " 
+  />
+</p>
+
 
 
 <h1 align="center">✨ Hello World, I'm Wizard Of Oz ✨</h1>
