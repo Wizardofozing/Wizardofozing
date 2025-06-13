@@ -13,8 +13,11 @@
 
 
 
-<h1 align="center">✨ I'm Wizard Of Oz ✨</h1>
-<p align="center">🧙‍♀️ Just a tiny code wizard chasing bugs down the yellow brick road 🌪️</p>
+<h1 align="center">Hello ⋆｡°·☁︎ </h1>
+<p align="center">
+  I code what I feel like, when I feel like it.  
+  Not for work, not for deadlines — just for joy.  
+</p>
 
 ---
 
