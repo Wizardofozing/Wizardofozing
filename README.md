@@ -50,19 +50,25 @@
 
 ---
 
-<h2 id="-my-contacts">📫 &nbsp;My Contacts</h2>
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
-<p><a href="https://www.linkedin.com/in/pablodsilva/"><img src="https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/pablodsilva/" alt="LinkedIn Badge"></a>&nbsp;
-<a href="mailto:pablo.pds100@gmail.com"><img src="https://img.shields.io/badge/-pablo.pds100@gmail.com-red?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Gmail Badge"></a>&nbsp;
-<a href="https://www.instagram.com/pepyn0_/"><img src="https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Badge"></a>&nbsp;
-<a href="https://twitter.com/Pepyn0"><img src="https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&amp;logo=Twitter&amp;logoColor=white" alt="Twitter Badge"></a>&nbsp;
-<a href="https://anilist.co/user/Pepyn0/"><img src="https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&amp;logo=Anilist&amp;logoColor=white" alt="AniList Badge"></a></p>
-</div>
+<h2 id="my-contacts">📫 &nbsp;My Contacts</h2>
+
+<p>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/your_username/" target="_blank">
+    <img src="https://img.shields.io/badge/-@your_username-FF69B4?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>&nbsp;
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@your_username" target="_blank">
+    <img src="https://img.shields.io/badge/-@your_username-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok Badge">
+  </a>&nbsp;
+</p>
+
+
+
+
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
-<!-- ## 📚 &nbsp;My Projects -->
-<hr>
-<p>Credits: <a href="https://github.com/Pepyn0">Pepyn0</a></p>
-<p>Last Edited on: 26/05/2022</p> 
+
