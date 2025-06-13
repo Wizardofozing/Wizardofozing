@@ -20,30 +20,33 @@
 </p>
 
 ---
-<div style="display: flex; gap: 40px; align-items: flex-start; font-family: 'Poppins', sans-serif;">
 
-  <!-- About Me Section -->
-  <div style="flex: 1;">
-    <h3>ೄྀ⋆｡🌷 About Me</h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>- Currently working on and developing my <br> (barely there) programming skills.</li>
-      <li>- I code when inspiration strikes</li>
-      <li>- I try to make all projects pleasing for the eyes! <br>𓂃 ࣪˖ ִֶָ🐇་༘࿐</li>
-    </ul>
-  </div>
+<table>
+  <tr>
+    <td>
 
-  <!-- Another Cute Section -->
-  <div style="flex: 1;">
-    <h3>🌸⋆｡ My Interests</h3>
-    <ul style="list-style: none; padding-left: 0;">
-      <li>- Studio Ghibli fan 🌙</li>
-      <li>- Love pastel aesthetics 🎀</li>
-      <li>- Obsessed with cozy games 🎮</li>
-      <li>- Always listening to lo-fi music 🎧</li>
-    </ul>
-  </div>
+      <h3>ೕ⋆｡🌷 About Me</h3>
+      <ul>
+        <li>Currently working on and developing my (barely there) programming skills.</li>
+        <li>I code when inspiration strikes</li>
+        <li>I try to make all projects pleasing for the eyes!<br>𓂃 ࣪˖ ִֶָ🐇་༘࿐</li>
+      </ul>
 
-</div>
+    </td>
+    <td>
+
+      <h3>🌸⋆｡ My Interests</h3>
+      <ul>
+        <li>Studio Ghibli fan 🌙</li>
+        <li>Love pastel aesthetics 🎀</li>
+        <li>Obsessed with cozy games 🎮</li>
+        <li>Always listening to lo-fi music 🎧</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### ⋆౨ৎ˚⟡˖ ࣪ Languages & Tools I be using:
