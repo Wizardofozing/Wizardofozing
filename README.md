@@ -22,11 +22,11 @@
 - I code when inspiration strikes
 - I try to make all projects pleasing for the eyes!𓂃 ࣪˖ ִֶָ🐇་༘࿐
 
----
+
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 
----
+
 
 ### ⋆౨ৎ˚⟡˖ ࣪ Languages & Tools I be using:
 
