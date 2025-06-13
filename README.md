@@ -1,9 +1,9 @@
 <p align="center">
   <img 
-    src="https://i.pinimg.com/originals/ca/3e/a9/ca3ea9a248c198073ff1379a6ae8aef5.gif" 
+    src="https://i.pinimg.com/originals/4b/a4/a3/4ba4a3201379339649ace503f62e7b8c.gif" 
     alt="Banner"
     width="100%"
-    height="90%"
+    height="80%"
   />
 </p>
 
