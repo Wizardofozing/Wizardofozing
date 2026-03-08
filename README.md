@@ -11,7 +11,7 @@
 <h1 align="center">‧₊˚❀༉‧₊˚. Helloooo ⋆｡°·☁︎ </h1>
 <p align="center">
   I code what I feel like, when I feel like it.  
-  Not for work or deadlines 𓏲 ๋࣭ ࣪ ˖🎐
+   𓏲 ๋࣭ ࣪ ˖🎐
 </p>
 
 
