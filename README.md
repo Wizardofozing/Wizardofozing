@@ -8,10 +8,10 @@
 </p>
 
 
-<h1 align="center">‧₊˚❀༉‧₊˚. Helloooo ⋆｡°·☁︎ </h1>
+<h1 align="center">‧₊˚нєℓℓσ</h1>
 <p align="center">
   I code what I feel like, when I feel like it.  
-   𓏲 ๋࣭ ࣪ ˖🎐
+   𓏲 ๋࣭ ࣪ 
 </p>
 
 
@@ -19,7 +19,7 @@
 ---
 <img align="right" width="290px" alt="Unicorn" src="https://i.pinimg.com/originals/cd/4a/dd/cd4addb03dbfb01b2fe3072990e42ea6.gif">
 
-###  ೀ⋆｡🌷 About Me
+###  ೀ⋆｡ About Me
  
 - Currently working on and developing my (barely there) programming skills.
 - I code when inspiration strikes
@@ -30,7 +30,7 @@
 
 
 
-### ⋆౨ৎ˚⟡˖ ࣪ Languages & Tools I be using:
+### ⋆ Languages & Tools I be using:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,firebase,react,github,&theme=light" />
